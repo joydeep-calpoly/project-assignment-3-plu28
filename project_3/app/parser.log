@@ -1,0 +1,246 @@
+Oct 29, 2024 8:27:09 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Oct 29, 2024 8:27:09 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no published at date and has been removed
+Oct 29, 2024 8:27:09 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 29, 2024 8:46:18 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Oct 29, 2024 8:46:18 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no published at date and has been removed
+Oct 29, 2024 8:46:18 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 29, 2024 8:48:03 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Oct 29, 2024 8:48:03 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no published at date and has been removed
+Oct 29, 2024 8:48:03 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 29, 2024 8:53:58 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Oct 29, 2024 8:53:58 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no published at date and has been removed
+Oct 29, 2024 8:53:58 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 29, 2024 8:57:15 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Oct 29, 2024 8:57:15 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no published at date and has been removed
+Oct 29, 2024 8:57:15 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 29, 2024 8:59:43 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Oct 29, 2024 8:59:43 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no published at date and has been removed
+Oct 29, 2024 8:59:43 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 29, 2024 9:29:15 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Oct 29, 2024 9:29:15 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no published at date and has been removed
+Oct 29, 2024 9:29:15 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 29, 2024 9:33:25 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Oct 29, 2024 9:33:25 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no published at date and has been removed
+Oct 29, 2024 9:33:25 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 29, 2024 9:57:37 AM java.util.logging.LogManager$RootLogger log
+WARNING: Cannot deserialize value of type `java.util.Date` from String "2021-04-16 09:53:23.709229": not a valid representation (error: Failed to parse Date value '2021-04-16 09:53:23.709229': Cannot parse date "2021-04-16 09:53:23.709229": while it seems to fit format 'yyyy-MM-dd'T'HH:mm:ss.SSSX', parsing fails (leniency? null))
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 5, column: 22] (through reference chain: org.parser.SimpleArticles["articles"]->java.util.ArrayList[0]->org.parser.SimpleArticles$SimpleArticle["publishedAt"])
+Oct 29, 2024 10:00:14 AM java.util.logging.LogManager$RootLogger log
+WARNING: Cannot deserialize value of type `java.util.Date` from String "2021-04-16 09:53:23.709229": not a valid representation (error: Failed to parse Date value '2021-04-16 09:53:23.709229': Cannot parse date "2021-04-16 09:53:23.709229": while it seems to fit format 'yyyy-MM-dd'T'HH:mm:ss.SSSX', parsing fails (leniency? null))
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 5, column: 22] (through reference chain: org.parser.SimpleArticles["articles"]->java.util.ArrayList[0]->org.parser.SimpleArticles$SimpleArticle["publishedAt"])
+Oct 29, 2024 10:01:02 AM java.util.logging.LogManager$RootLogger log
+WARNING: Cannot deserialize value of type `java.util.Date` from String "2021-04-16 09:53:23.709229": not a valid representation (error: Failed to parse Date value '2021-04-16 09:53:23.709229': Cannot parse date "2021-04-16 09:53:23.709229": while it seems to fit format 'yyyy-MM-dd'T'HH:mm:ss.SSSX', parsing fails (leniency? null))
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 5, column: 22] (through reference chain: org.parser.SimpleArticles["articles"]->java.util.ArrayList[0]->org.parser.SimpleArticles$SimpleArticle["publishedAt"])
+Oct 29, 2024 10:03:30 AM java.util.logging.LogManager$RootLogger log
+WARNING: Java 8 date/time type `java.time.LocalDateTime` not supported by default: add Module "com.fasterxml.jackson.datatype:jackson-datatype-jsr310" to enable handling
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 5, column: 22] (through reference chain: org.parser.SimpleArticles["articles"]->java.util.ArrayList[0]->org.parser.SimpleArticles$SimpleArticle["publishedAt"])
+Oct 29, 2024 10:06:31 AM java.util.logging.LogManager$RootLogger log
+WARNING: Java 8 date/time type `java.time.LocalDateTime` not supported by default: add Module "com.fasterxml.jackson.datatype:jackson-datatype-jsr310" to enable handling
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 5, column: 22] (through reference chain: org.parser.SimpleArticles["articles"]->java.util.ArrayList[0]->org.parser.SimpleArticles$SimpleArticle["publishedAt"])
+Oct 29, 2024 10:14:41 AM java.util.logging.LogManager$RootLogger log
+WARNING: Java 8 date/time type `java.time.LocalDateTime` not supported by default: add Module "com.fasterxml.jackson.datatype:jackson-datatype-jsr310" to enable handling
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 5, column: 22] (through reference chain: org.parser.SimpleArticles["articles"]->java.util.ArrayList[0]->org.parser.SimpleArticles$SimpleArticle["publishedAt"])
+Oct 29, 2024 10:16:48 AM java.util.logging.LogManager$RootLogger log
+WARNING: Java 8 date/time type `java.time.LocalDateTime` not supported by default: add Module "com.fasterxml.jackson.datatype:jackson-datatype-jsr310" to enable handling
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 5, column: 22] (through reference chain: org.parser.SimpleArticles["articles"]->java.util.ArrayList[0]->org.parser.SimpleArticles$SimpleArticle["publishedAt"])
+Oct 29, 2024 10:17:09 AM java.util.logging.LogManager$RootLogger log
+WARNING: Java 8 date/time type `java.time.LocalDateTime` not supported by default: add Module "com.fasterxml.jackson.datatype:jackson-datatype-jsr310" to enable handling
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 5, column: 22] (through reference chain: org.parser.SimpleArticles["articles"]->java.util.ArrayList[0]->org.parser.SimpleArticles$SimpleArticle["publishedAt"])
+Oct 29, 2024 10:22:33 AM java.util.logging.LogManager$RootLogger log
+WARNING: Cannot deserialize value of type `java.time.LocalDateTime` from String "2021-04-16 09:53:23.709229": Failed to deserialize java.time.LocalDateTime: (java.time.format.DateTimeParseException) Text '2021-04-16 09:53:23.709229' could not be parsed at index 10
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 5, column: 22] (through reference chain: org.parser.SimpleArticles["articles"]->java.util.ArrayList[0]->org.parser.SimpleArticles$SimpleArticle["publishedAt"])
+Oct 29, 2024 10:22:49 AM java.util.logging.LogManager$RootLogger log
+WARNING: Cannot deserialize value of type `java.time.LocalDateTime` from String "2021-04-16 09:53:23.709229": Failed to deserialize java.time.LocalDateTime: (java.time.format.DateTimeParseException) Text '2021-04-16 09:53:23.709229' could not be parsed at index 10
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 5, column: 22] (through reference chain: org.parser.SimpleArticles["articles"]->java.util.ArrayList[0]->org.parser.SimpleArticles$SimpleArticle["publishedAt"])
+Oct 29, 2024 10:58:05 AM java.util.logging.LogManager$RootLogger log
+WARNING: Cannot deserialize value of type `java.time.LocalDateTime` from String "2021-04-16 09:53:23.709229": Failed to deserialize java.time.LocalDateTime: (java.time.format.DateTimeParseException) Text '2021-04-16 09:53:23.709229' could not be parsed at index 10
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 5, column: 22] (through reference chain: org.parser.SimpleArticles["articles"]->java.util.ArrayList[0]->org.parser.SimpleArticles$SimpleArticle["publishedAt"])
+Oct 29, 2024 11:15:51 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 29, 2024 11:28:33 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 29, 2024 11:42:49 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 29, 2024 11:43:15 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 29, 2024 5:45:23 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 29, 2024 5:47:38 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 29, 2024 5:53:49 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 29, 2024 5:55:21 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 30, 2024 8:42:47 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 30, 2024 8:42:47 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 30, 2024 8:42:47 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 30, 2024 8:42:47 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 30, 2024 8:56:17 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 30, 2024 8:56:17 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 30, 2024 8:56:17 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 30, 2024 8:56:17 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 30, 2024 8:56:34 AM java.util.logging.LogManager$RootLogger log
+WARNING: Unrecognized field "status" (class org.parser.SimpleArticle), not marked as ignorable (4 known properties: "title", "publishedAt", "description", "url"])
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 266, column: 2] (through reference chain: org.parser.SimpleArticle["status"])
+Oct 30, 2024 8:58:23 AM java.util.logging.LogManager$RootLogger log
+SEVERE: Unrecognized field "status" (class org.parser.SimpleArticle), not marked as ignorable (4 known properties: "title", "publishedAt", "description", "url"])
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 266, column: 2] (through reference chain: org.parser.SimpleArticle["status"])
+Oct 30, 2024 8:59:23 AM java.util.logging.LogManager$RootLogger log
+SEVERE: Unrecognized field "status" (class org.parser.SimpleArticle), not marked as ignorable (4 known properties: "title", "publishedAt", "description", "url"])
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 266, column: 2] (through reference chain: org.parser.SimpleArticle["status"])
+Oct 30, 2024 8:59:53 AM java.util.logging.LogManager$RootLogger log
+SEVERE: Unrecognized field "status" (class org.parser.SimpleArticle), not marked as ignorable (4 known properties: "title", "publishedAt", "description", "url"])
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 266, column: 2] (through reference chain: org.parser.SimpleArticle["status"])
+Oct 30, 2024 9:00:16 AM java.util.logging.LogManager$RootLogger log
+SEVERE: Unrecognized field "status" (class org.parser.SimpleArticle), not marked as ignorable (4 known properties: "title", "publishedAt", "description", "url"])
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 266, column: 2] (through reference chain: org.parser.SimpleArticle["status"])
+Oct 31, 2024 11:18:02 AM java.util.logging.LogManager$RootLogger log
+SEVERE: Unrecognized field "status" (class org.parser.SimpleArticle), not marked as ignorable (4 known properties: "title", "publishedAt", "description", "url"])
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 266, column: 2] (through reference chain: org.parser.SimpleArticle["status"])
+Oct 31, 2024 11:20:11 AM java.util.logging.LogManager$RootLogger log
+SEVERE: Unrecognized field "status" (class org.parser.SimpleArticle), not marked as ignorable (4 known properties: "title", "publishedAt", "description", "url"])
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 266, column: 2] (through reference chain: org.parser.SimpleArticle["status"])
+Oct 31, 2024 11:22:41 AM java.util.logging.LogManager$RootLogger log
+SEVERE: Unrecognized field "status" (class org.parser.SimpleArticle), not marked as ignorable (4 known properties: "title", "publishedAt", "description", "url"])
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 266, column: 2] (through reference chain: org.parser.SimpleArticle["status"])
+Oct 31, 2024 11:22:51 AM java.util.logging.LogManager$RootLogger log
+SEVERE: Unrecognized field "status" (class org.parser.SimpleArticle), not marked as ignorable (4 known properties: "title", "publishedAt", "description", "url"])
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 266, column: 2] (through reference chain: org.parser.SimpleArticle["status"])
+Oct 31, 2024 11:26:13 AM java.util.logging.LogManager$RootLogger log
+SEVERE: No content to map due to end-of-input
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1]
+Oct 31, 2024 11:26:29 AM java.util.logging.LogManager$RootLogger log
+SEVERE: No content to map due to end-of-input
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1]
+Oct 31, 2024 11:32:33 AM java.util.logging.LogManager$RootLogger log
+SEVERE: No content to map due to end-of-input
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1]
+Oct 31, 2024 12:02:06 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Oct 31, 2024 12:02:06 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 31, 2024 12:02:06 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 31, 2024 12:27:38 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 31, 2024 12:29:48 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 31, 2024 12:30:03 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 31, 2024 12:38:50 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 31, 2024 12:41:13 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 31, 2024 12:56:31 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 31, 2024 12:56:51 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 31, 2024 3:08:51 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Oct 31, 2024 3:09:20 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Oct 31, 2024 3:09:20 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Oct 31, 2024 3:09:20 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Nov 13, 2024 8:32:27 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 13, 2024 8:32:27 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 14, 2024 11:45:16 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Nov 14, 2024 11:45:16 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 14, 2024 11:45:16 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Nov 14, 2024 11:48:26 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Nov 14, 2024 11:48:26 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 14, 2024 11:48:26 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Nov 14, 2024 11:48:27 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 14, 2024 11:50:01 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Nov 14, 2024 11:50:01 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 14, 2024 11:50:01 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Nov 14, 2024 11:50:01 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 14, 2024 11:50:01 AM java.util.logging.LogManager$RootLogger log
+SEVERE: Unrecognized field "status" (class org.parser.SimpleArticle), not marked as ignorable (4 known properties: "title", "publishedAt", "description", "url"])
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 92, column: 2] (through reference chain: org.parser.SimpleArticle["status"])
+Nov 14, 2024 11:51:19 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Nov 14, 2024 11:51:19 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 14, 2024 11:51:19 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Nov 14, 2024 11:51:20 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 14, 2024 3:15:09 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Nov 14, 2024 3:15:09 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 14, 2024 3:15:09 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Nov 14, 2024 3:15:09 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 14, 2024 3:15:28 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Nov 14, 2024 3:15:28 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 14, 2024 3:15:28 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Nov 14, 2024 3:15:29 PM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 17, 2024 8:30:43 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Nov 17, 2024 8:30:43 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 17, 2024 8:30:43 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Nov 17, 2024 8:30:44 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 17, 2024 9:12:08 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no url and has been removed
+Nov 17, 2024 9:12:08 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed
+Nov 17, 2024 9:12:08 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no title and has been removed
+Nov 17, 2024 9:12:09 AM java.util.logging.LogManager$RootLogger log
+WARNING: Article has no description and has been removed

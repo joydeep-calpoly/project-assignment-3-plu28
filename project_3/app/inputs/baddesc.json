@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "The latest on the coronavirus pandemic and vaccines: Live updates - CNN",
+      "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-03-24-21/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+      "publishedAt": "2021-03-24T22:32:00Z",
+      "content": "A senior European diplomat is urging caution over the use of proposed new rules that would govern exports of Covid-19 vaccines to outside of the EU. The rules were announced by the European Commissio… [+2476 chars]"
+    }
+  ]
+}
